@@ -1,0 +1,64 @@
+.div {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  left: 0;
+  right: 0;
+  height: 150px;
+  background-color: #00ff44;
+}
+
+.div5 {
+  position: absolute;
+  top: 900px;
+  left: 0;
+  right: 0;
+  height: 500px;
+  background-color: black;
+}
+
+.div1 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 180px;
+  width: 600px;
+  height: 700px;
+  background-color: rgb(255, 0, 0);
+}
+
+.div6 {
+  position: absolute;
+  top: 1420px;
+  left: 0;
+  right: 0;
+  height: 330px;
+  background-color: purple;
+}
+
+.div3 {
+  position: absolute;
+  top: 25px;
+  left: 15px;
+  width: 880px;
+  height: 280px;
+  background-color: gray;
+}
+
+.div2 {
+  position: absolute;
+  right: 0;
+  top: 180px;
+  width: 910px;
+  height: 700px;
+  background-color: rgb(255, 0, 225);
+}
+
+.div4 {
+  position: absolute;
+  top: 340px;
+  left: 15px;
+  width: 880px;
+  height: 330px;
+  background-color: grey;
+}
